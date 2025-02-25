@@ -1,2 +1,2 @@
 # Python_3Y
-Python assignments for Uni.
+Przedmiot: Programowanie w języku Python

@@ -64,7 +64,7 @@ def zad20():
 def zad21():
     a = 213
     b = str(a)
-    for x in b:
+    for x in reversed(b):
         print(x)
 
 zad13()

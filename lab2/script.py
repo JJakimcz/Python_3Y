@@ -15,23 +15,36 @@ def round_numbers(numbers, threshold):
             print(x)
 
 def longest_increasing_subsequence(sequence):
+    temp = num(1)
     for num in sequence:
-        temp = num
+        temp_sequence = []
         if num > temp:
-            
+            temp_sequence.append(num)
+            temp = num
+        else:
+            temp_sequence = []
+            temp = num
+
 
 
 def is_balanced(expression):
+    return
 
 def transposition_cipher(text, key):
+    return
 
 def fibonacci_generator(n):
+    return
 
 def most_frequent_element(data):
+    return
 
 def readability_score(text):
+    return
 
 def unique_permutations(text):
+    return
 
 def group_words_by_lenght(words):
+    return
 
